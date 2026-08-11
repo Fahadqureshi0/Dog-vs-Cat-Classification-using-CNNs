@@ -81,3 +81,6 @@ The complete implementation of this project is available in the Jupyter Notebook
 - 💼 LinkedIn: [https://www.linkedin.com/in/fahad-qureshi-aa8a8727b/](YOUR_LINKEDIN_URL)
 - 📧 Email: [fahadqureshi.dev@gmail.com](mailto:YOUR_EMAIL)
 
+## 📄 License
+
+This project is licensed under the MIT License.
